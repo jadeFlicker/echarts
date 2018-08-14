@@ -1,0 +1,21 @@
+html{
+	height: 100%;
+}
+body{
+	background: red;
+}
+span{
+	font-size: 30px;
+}
+#study{
+	transform:rotate(30deg);
+	height: 300px;
+	width: 400px;
+	background-image: url(../images/0.jpg);
+}
+.test{
+	height: 100px;
+}
+.wo{
+	height: 100%;
+}
